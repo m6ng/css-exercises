@@ -1,0 +1,19 @@
+.this-is-a-class {
+    background-color: hsl(0, 100%, 75%);
+    font-family: Verdana, sans-serif;
+}
+
+#number-two {
+    color: #10f;
+    font-size: 36px;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#number-four {
+    background-color: rgb(0, 200, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
